@@ -10,3 +10,31 @@ Conforme medidas restritivas eram tomadas por todo o mundo, o público viu no co
 Por conta do aumento da demanda por conteúdos via streaming, é natural que a oferta acabe se diversificando em meio à disputa por market shares. Dessa forma, cada serviço de streaming oferece diferentes conteúdos e disputam entre si para disponibilizar aqueles que melhor atenderão seu público. Do ponto de vista do consumidor, é interessante portanto saber qual serviço possui os conteúdos que melhor se adequem às suas preferências.
 Pensando nisso, concebemos este presente projeto como uma forma de analisar e mostrar os dados obtidos como forma de auxiliar a análise sobre os principais serviços de streaming disponíveis atualmente.
 
+
+
+# Dicionário de dados 
+
+| Nome da coluna    |   Conteúdos       
+|-------------------|--------------------------------------------------------------------------------
+|    Title          |
+|    Year           |
+|    Age            |
+|    IMDB           |
+|    Rotten         |
+|    Tomatoes       |
+|    Netflix        |
+|    Hulu           |
+|    Prime Video    |
+|    Disney         |
+|    Type           | 
+|    Title          |
+|    Director       |
+
+
+| Nome da Coluna    |  Conteúdos 
+|-------------------|----------------------------------------------------------------------------------
+|    Cast           |
+|    Country        |
+|    Date_added     |
+|    Release_year   |
+| Rating duration   |
