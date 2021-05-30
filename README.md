@@ -10,6 +10,12 @@ Conforme medidas restritivas eram tomadas por todo o mundo, o público viu no co
 Por conta do aumento da demanda por conteúdos via streaming, é natural que a oferta acabe se diversificando em meio à disputa por market shares. Dessa forma, cada serviço de streaming oferece diferentes conteúdos e disputam entre si para disponibilizar aqueles que melhor atenderão seu público. Do ponto de vista do consumidor, é interessante portanto saber qual serviço possui os conteúdos que melhor se adequem às suas preferências.
 Pensando nisso, concebemos este presente projeto como uma forma de analisar e mostrar os dados obtidos como forma de auxiliar a análise sobre os principais serviços de streaming disponíveis atualmente.
 
+## 🧱: **Estrutura**
+Os datasets utilizados foram recolhidos do kaggle, os dados são open source e os autores serâo referenciados.
+
+- [tv_shows.csv](https://www.kaggle.com/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney)- Upload feito por Ruchi Bhatia | Dataset contèm dados referentes a varias plataformas de streaming (Netflix,Hulu Prime Video e Disney+)
+
+- [netflix_titles.csv](https://www.kaggle.com/shivamb/netflix-shows)- Upload feito por Shivam Bansal | Dataset contèm dados referentes a plataforma de streaming da netflix até 2019
 
 
 ## :page_with_curl: Dicionário de dados
