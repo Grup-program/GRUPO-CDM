@@ -62,3 +62,10 @@ Os datasets utilizados foram recolhidos do kaggle, os dados são open source e o
 - [Vizualização de data a partir de uma coluna](https://stackoverflow.com/questions/43549901/visualize-data-from-one-column)
 
 - [Converter string de percentagem em float](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
+
+## :construction_worker: *Colaboradores do Projeto*
+
+- João Perdiz- 2020120187
+- Pedro Bosco Lira- 2020100275
+- Erica De Brito- 
+
