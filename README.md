@@ -16,25 +16,24 @@ Pensando nisso, concebemos este presente projeto como uma forma de analisar e mo
 
 | Nome da coluna    |   Conteúdos       
 |-------------------|--------------------------------------------------------------------------------
-|    Title          |
-|    Year           |
-|    Age            |
-|    IMDB           |
-|    Rotten         |
+|    Title          | Título dos filmes e series
+|    Year           | Ano de Estreia dos filmes
+|    Age            | Classificação por idades dos filmes e series
+|    IMDB           | Classificação quantitativa pelo IMDB dos filmes e series 
+|    Rotten         | Classificação quantitativa pelo IMDB dos filmes e series
 |    Tomatoes       |
-|    Netflix        |
-|    Hulu           |
-|    Prime Video    |
-|    Disney         |
-|    Type           | 
-|    Title          |
-|    Director       |
+|    Netflix        | Valor sobre a existência de um determinado titulo na plataforma de streaming Netflix (1- possui; 0- não possui )
+|    Hulu           | Valor sobre a existência de um determinado titulo na plataforma de streaming Hulu  (1- possui; 0- não possui )
+|    Prime Video    | Valor sobre a existência de um determinado titulo na plataforma de streaming Prime Video  (1- possui; 0- não possui )
+|    Disney         | Valor sobre a existência de um determinado titulo na plataforma de streaming Disney+  (1- possui; 0- não possui )
+|    Type           | Valor de ser serie ou filme (1-Serie; 0-filme)
+|    Director       | Diretor do filme ou serie
 
 
 | Nome da Coluna    |  Conteúdos 
 |-------------------|----------------------------------------------------------------------------------
-|    Cast           |
-|    Country        |
-|    Date_added     |
-|    Release_year   |
-| Rating duration   |
+|    Cast           | Elenco do título
+|    Country        | País onde foi realizado
+|    Date_added     | Data quando foi adicionado À plataforma
+|    Release_year   | Ano de estreia
+| Rating duration   | Duração do título
