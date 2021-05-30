@@ -20,8 +20,7 @@ Pensando nisso, concebemos este presente projeto como uma forma de analisar e mo
 |    Year           | Ano de Estreia dos filmes
 |    Age            | Classificação por idades dos filmes e series
 |    IMDB           | Classificação quantitativa pelo IMDB dos filmes e series 
-|    Rotten         | Classificação quantitativa pelo IMDB dos filmes e series
-|    Tomatoes       |
+|    Rotten Tomatoes| Classificação quantitativa pelo IMDB dos filmes e series
 |    Netflix        | Valor sobre a existência de um determinado titulo na plataforma de streaming Netflix (1- possui; 0- não possui )
 |    Hulu           | Valor sobre a existência de um determinado titulo na plataforma de streaming Hulu  (1- possui; 0- não possui )
 |    Prime Video    | Valor sobre a existência de um determinado titulo na plataforma de streaming Prime Video  (1- possui; 0- não possui )
