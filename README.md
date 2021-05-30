@@ -154,7 +154,7 @@ Os dados foram manejados de acordo com as nossas propostas: isolar cada serviço
 
 - João Perdiz- 2020120187
 - Pedro Bosco Lira- 2020100275
-- Erica De Brito- 
+- Erica De Brito- 2020108454
 
 
 
