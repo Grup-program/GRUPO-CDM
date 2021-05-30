@@ -1,4 +1,4 @@
-# :movie_camera: ** Avaliação dos Serviços de Streaming Netflix, Disney+ e Prime Video.**
+# :movie_camera: **Avaliação dos Serviços de Streaming Netflix, Disney+ e Prime Video.**
 
 Os dados são obtidos dos catálogos das plataformas. Alguns serviços em API realizam essa obtenção, como Guidebox, Gracenote e GoWatchit, mas não é especificado na plataforma qual o método utilizado para obtenção dos dados.
 
