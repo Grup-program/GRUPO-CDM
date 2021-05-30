@@ -42,3 +42,23 @@ Os datasets utilizados foram recolhidos do kaggle, os dados são open source e o
 |    Date_added     | Data quando foi adicionado À plataforma
 |    Release_year   | Ano de estreia
 | Rating duration   | Duração do título
+
+## :mag:*Referencias de pesquisa*
+
+- [Deleting DataFrame row in Pandas based on column value](https://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)
+
+- [Create a Pie Chart of Pandas Series Values](https://datascienceparichay.com/article/create-a-pie-chart-of-pandas-series-values/)
+
+- [Manipulação de colunas em um dataframe](https://www.youtube.com/watch?v=6NgyWKaP1ZU)
+
+- [Construção Pie chart](https://medium.com/horadecodar/gr%C3%A1ficos-de-pizza-com-matplotlib-piechart-33ea9760ad87)
+
+- [Remover colunas com pandas](https://www.alura.com.br/artigos/como-remover-linhas-e-colunas-no-pandas)
+
+- [Parametros de costumização Pie chart](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html#matplotlib.pyplot.pie)
+
+- [Guia de projeto de Data science](https://paulovasconcellos.com.br/como-criar-seu-primeiro-projeto-de-data-science-parte-2-de-2-cb9a2fe05eff)
+
+- [Vizualização de data a partir de uma coluna](https://stackoverflow.com/questions/43549901/visualize-data-from-one-column)
+
+- [Converter string de percentagem em float](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
