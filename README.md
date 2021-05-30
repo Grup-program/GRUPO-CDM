@@ -2,7 +2,7 @@
 
 Os dados são obtidos dos catálogos das plataformas. Alguns serviços em API realizam essa obtenção, como Guidebox, Gracenote e GoWatchit, mas não é especificado na plataforma qual o método utilizado para obtenção dos dados.
 
-#:school_satchel:# Introdução/Contexto Sócio-histórico
+:school_satchel: ##Introdução/Contexto Sócio-histórico
 
 É fácil observar que a pandemia alterou e muito nossas práticas cotidianas. O uso de máscaras e o cuidado com a etiqueta respiratória são exemplos claros e facilmente observáveis, uma vez que se relacionam diretamente a medidas sanitárias que visam o combate à pandemia. No entanto, algumas mudanças secundárias nos nossos hábitos podem ser observadas.
 O consumo de entretenimento via streaming é algo que tem aumentado ano após ano. Seja no segmento fonográfico ou audiovisual, o mercado teve de se ajustar ao novo comportamento de consumo do público. Gigantes da indústria, como Disney e Amazon, lançaram seus próprios serviços para competir pelo mercado. E esse mercado entrou em franca expansão com a pandemia da COVID-19.
